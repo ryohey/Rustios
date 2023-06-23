@@ -1,0 +1,4 @@
+module Rustios {
+    header "librustios.h"
+    export *
+}
